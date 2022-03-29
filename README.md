@@ -2,6 +2,10 @@
 
 Notes application that persists data to the local device's storage. Supports adding and deleting notes to a video.
 
+## Demo
+
+![demo](./demo/demo.gif)
+
 ## Built With
   - React
   - Bootstrap
